@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <declare-styleable name="ColorButton">
+    <attr name="valor" format="integer" />
+    <attr name="colorInicial" format="string" />
+    <attr name="colorProcesando" format="string" />
+  </declare-styleable>
+</resources>

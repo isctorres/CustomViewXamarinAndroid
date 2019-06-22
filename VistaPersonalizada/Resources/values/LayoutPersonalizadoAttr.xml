@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<resources>
+ <declare-styleable name="LayoutPersonalizado">
+    <attr name="colorBotonGuardar" format="string" />
+    <attr name="colorBotonActualizar" format="string" />
+    <attr name="colorBotonBorrar" format="string" />
+  </declare-styleable>
+</resources>

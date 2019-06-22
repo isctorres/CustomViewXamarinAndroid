@@ -1,0 +1,1 @@
+<resources><declare-styleable name="LayoutPersonalizado"><attr name="colorBotonGuardar" format="string" /><attr name="colorBotonActualizar" format="string" /><attr name="colorBotonBorrar" format="string" /></declare-styleable></resources>
